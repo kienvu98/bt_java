@@ -1,0 +1,51 @@
+body{
+    font-size: 15px;
+    width: 1300px;
+   text-align: center;
+   font-family: Tahoma;
+   margin: 0px auto;
+}
+#header{
+    height: 60px;
+    width: 1300px;
+    
+}
+#header .add{
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+#main{
+    height: 800px;
+    width: 1300px;
+    
+}
+#footer{
+    height: 60px;
+    width: 1300px;
+    background: yellow;
+}
+#main .title{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+#main .title h4{
+    margin-top: 10px;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+#main .noidung{
+    font-size: 15px;
+    margin-left: 80px;
+}
+#main .noidung .th{
+    width: 170px;
+}
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+
